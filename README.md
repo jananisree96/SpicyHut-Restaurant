@@ -6,9 +6,6 @@
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 **Spicy Hut** is a website designed for a vegetarian restaurant based in Chennai. The website provides a user-friendly interface to showcase the restaurant's menu, locations, and contact information. It’s designed with a responsive layout to ensure a seamless experience across all devices.
